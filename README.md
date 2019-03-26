@@ -1,5 +1,5 @@
 # List of Products App 
-# Product Review Application Website
+Product review application website
 
 This app is developed for Code Louisville 2019 JavaScript React Class. 
 This app is developed to let users views the product list and provide review comments for sharing thier experience with the product.
